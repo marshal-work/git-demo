@@ -8,3 +8,9 @@ Addiing Feature 1 Here HHpp yyaaa!!!!!!!!
 
 Adding some more line yaaaar
 >>>>>>> ccd9d6967bc618d13d823cf7c2db811b3abdc199
+
+
+
+Adding changes to branch made at hub level but pulled to local repository
+by doing git fetch
+then commanding git checkout branchname
