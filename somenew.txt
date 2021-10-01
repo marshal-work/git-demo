@@ -1,4 +1,10 @@
 ollalala
  I am Adding new lines in repository so that i should pull this to my local and sace the changes made here available in local machine tooo!!!
 
+<<<<<<< HEAD
 Addiing Feature 1 Here HHpp yyaaa!!!!!!!!
+=======
+
+
+Adding some more line yaaaar
+>>>>>>> ccd9d6967bc618d13d823cf7c2db811b3abdc199
